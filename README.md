@@ -49,12 +49,11 @@ El trabajo en equipo fue uno de los pilares fundamentales de esta etapa, y sin d
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lizacode22&show_icons=true&locale=en&layout=compact&theme=dark" alt="lizacode22 most used languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizacode22&layout=compact&theme=radical" alt="lizacode22 most used languages"/>
   &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=lizacode22&show_icons=true&theme=radical"/>
 <img src="https://raw.githubusercontent.com/lizacode22/lizacode22/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
-
 
 <!--
 **lizacode22/lizacode22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
