@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<a href="mailto:lizcontreras2224h@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:lizcontreras2224h@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/liz-andreina-contreras-hern%C3%A1ndez-0a29961b8/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
